@@ -75,27 +75,51 @@ h1,h2,h3{
   left: 0;
   z-index: -1;
 }
-.bar1::after{
-  max-width: 20%;
+.windows::after{
+  max-width: 83%;
 }
-.bar2::after{
-  max-width: 30%;
+.python::after{
+  max-width: 72%;
 }
-.bar3::after{
-  max-width: 40%;
+.linux::after{
+  max-width: 64%;
 }
-.bar4::after{
-  max-width: 50%;
+.cplusplus::after{
+  max-width: 61%;
 }
-.bar5::after{
-	max-width: 60%;
+.git::after{
+	max-width: 59%;
   }
-.bar6::after{
-max-width: 70%;
+.sql::after{
+max-width: 55%;
 }
-.bar7::after{
-max-width: 80%;
+.c::after{
+max-width: 69%;
 }
+.wireshark::after{
+max-width: 67%;
+}
+.html::after{
+max-width: 46%;
+}
+.php::after{
+max-width: 37%;
+}
+.nodejs::after{
+max-width: 41%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @-webkit-keyframes bar-before{
   0%{
     width: 0px;
