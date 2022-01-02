@@ -87,6 +87,9 @@ h1,h2,h3{
 .bar4::after{
   max-width: 30%;
 }
+.bar5::after{
+	max-width: 20%;
+  }
 @-webkit-keyframes bar-before{
   0%{
     width: 0px;
