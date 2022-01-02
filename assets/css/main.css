@@ -88,25 +88,25 @@ h1,h2,h3{
   max-width: 61%;
 }
 .git::after{
-	max-width: 59%;
-  }
+  max-width: 59%;
+}
 .sql::after{
-max-width: 55%;
+  max-width: 55%;
 }
 .c::after{
-max-width: 69%;
+  max-width: 69%;
 }
 .wireshark::after{
-max-width: 67%;
+  max-width: 67%;
 }
 .html::after{
-max-width: 46%;
+  max-width: 46%;
 }
 .php::after{
-max-width: 37%;
+  max-width: 37%;
 }
 .nodejs::after{
-max-width: 41%;
+  max-width: 41%;
 }
 
 
