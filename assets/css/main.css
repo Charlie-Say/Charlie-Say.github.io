@@ -26,30 +26,7 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 /* Extras */
-.tab {
-  display: inline-block;
-  margin-left: 250px;
-}
-.tab2 {
-  display: inline-block;
-  margin-left: 160px;
-}
-.tab3 {
-  display: inline-block;
-  margin-left: 60px;
-}
-.tab4 {
-  display: inline-block;
-  margin-left: 200px;
-}
-.tab5 {
-  display: inline-block;
-  margin-left: 100px;
-}
-.tab6 {
-  display: inline-block;
-  margin-left: 90px;
-}
+
 
 /* Bar Graph */
 font-family: 'Source Sans Pro', sans-serif;
@@ -106,10 +83,10 @@ h1,h2,h3{
   max-width: 72%;
 }
 .linux::after{
-  max-width: 64%;
+  max-width: 57%;
 }
 .cplusplus::after{
-  max-width: 61%;
+  max-width: 43%;
 }
 .git::after{
   max-width: 59%;
@@ -118,7 +95,7 @@ h1,h2,h3{
   max-width: 55%;
 }
 .c::after{
-  max-width: 69%;
+  max-width: 43%;
 }
 .wireshark::after{
   max-width: 67%;
@@ -127,10 +104,10 @@ h1,h2,h3{
   max-width: 46%;
 }
 .php::after{
-  max-width: 37%;
+  max-width: 29%;
 }
 .nodejs::after{
-  max-width: 41%;
+  max-width: 37%;
 }
 
 
@@ -761,7 +738,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-weight: 1000;
 		}
 
 		.icon > .label {
