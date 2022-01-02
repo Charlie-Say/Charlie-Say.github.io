@@ -25,7 +25,31 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-
+/* Extras */
+.tab {
+  display: inline-block;
+  margin-left: 250px;
+}
+.tab2 {
+  display: inline-block;
+  margin-left: 160px;
+}
+.tab3 {
+  display: inline-block;
+  margin-left: 60px;
+}
+.tab4 {
+  display: inline-block;
+  margin-left: 200px;
+}
+.tab5 {
+  display: inline-block;
+  margin-left: 100px;
+}
+.tab6 {
+  display: inline-block;
+  margin-left: 90px;
+}
 
 /* Bar Graph */
 font-family: 'Source Sans Pro', sans-serif;
